@@ -1,0 +1,17 @@
+Package: ctww
+Title: Camera Trap Workflow Wrapper
+Version: 0.0.1
+Authors@R: 
+    person(given = "Robert",
+           family = "Ritson",
+           role = c("aut", "cre"),
+           email = "robert.ritson@idfg.idaho.gov")
+Description: A collection of functions supporting a workflow pipeline for remote cameras used in wildlife monitoring. Created specifically with IDFG projects in mind. Includes wrappers for Microsoft's MegaDetector.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    reticulate,
+    stringr
