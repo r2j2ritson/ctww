@@ -62,7 +62,7 @@ run_simple_megadetector <- function(
                    IMAGE_PATH = image_path,
                    OUT_PATH = out_path)
 
-  if(view_when_done == TRUE){rstudioapi::viewer(path = out_path)}
+  if(view_when_done == TRUE){rstudioapi::viewer(out_path)}
 
   print("Done")
 }
