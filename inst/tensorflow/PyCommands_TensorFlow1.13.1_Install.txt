@@ -1,0 +1,18 @@
+###------- MegaDetector System Requirements --------###
+-Anaconda3
+-Python 3.7
+-tensorflow 1.13.1 wheel file
+#------------------------------------------------------#
+#------------------------------------------------------#
+#Installing TensorFlow 1.13.1 (for MegaDetector)
+pip uninstall tensorflow #if already installed
+pip install C:\yourfilepathinR\ctww\tensorflow\tensorflow-1.13.1-cp37-cp37m-win_amd64.whl
+
+#URL: https://github.com/fo40225/tensorflow-windows-wheel/tree/master/1.13.1/py37/CPU/avx2
+#This version is for Python 3.7, need to downgrade first if newer version in use
+To get your file path, run the following R command
+> paste(system.file("tensorflow", package = "ctww", mustWork = T), "tensorflow-1.13.1-cp37-cp37m-win_amd64.whl", sep = "/")
+
+#Downgrade Python command 
+conda install python=3.7 
+
