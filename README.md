@@ -6,3 +6,5 @@ TensorFlow Wheel Files (for optimization): https://github.com/fo40225/tensorflow
 
 Microsoft MegaDetector: https://github.com/microsoft/CameraTraps/blob/master/megadetector.md
 
+[Current Frozen Model .pb](https://lilablobssc.blob.core.windows.net/models/camera_traps/megadetector/md_v4.1.0/md_v4.1.0.pb)
+
