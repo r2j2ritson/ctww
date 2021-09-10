@@ -1,6 +1,7 @@
 # ctww
 Camera Trap Workflow Wrapper R package
-![ctww_sticker_sm](https://user-images.githubusercontent.com/81387018/132911595-3235a292-f930-4f25-8702-0509918432dc.png)
+![ctww_sticker_sm](https://user-images.githubusercontent.com/81387018/132911788-6fc71d8b-30df-4a25-9ac4-53107e69de06.png)
+
 
 
 TensorFlow Wheel Files (for optimization): https://github.com/fo40225/tensorflow-windows-wheel/tree/master/1.13.1/py37/CPU/avx2
